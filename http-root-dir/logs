@@ -1,0 +1,2821 @@
+data.cs.purdue.edu:3036http-root-dir/htdocs/index.html
+data.cs.purdue.edu:3036http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:3036http-root-dir/cgi-bin/test-env
+data.cs.purdue.edu:3036http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:3036http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:3036http-root-dir/cgi-bin/jj
+data.cs.purdue.edu:3036http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:3036http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/dir1/
+data.cs.purdue.edu:30604http-root-dir/icons/blank.gif
+data.cs.purdue.edu:30604http-root-dir/icons/back.gif
+data.cs.purdue.edu:30604http-root-dir/icons/image.gif
+data.cs.purdue.edu:30604http-root-dir/icons/unknown.gif
+data.cs.purdue.edu:30604http-root-dir/icons/menu.gif
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/dir1/
+data.cs.purdue.edu:30604http-root-dir/icons/unknown.gif
+data.cs.purdue.edu:30604http-root-dir/icons/back.gif
+data.cs.purdue.edu:30604http-root-dir/icons/blank.gif
+data.cs.purdue.edu:30604http-root-dir/icons/image.gif
+data.cs.purdue.edu:30604http-root-dir/icons/menu.gif
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/dir1/subdir1/
+data.cs.purdue.edu:30604http-root-dir/icons/unknown.gif
+data.cs.purdue.edu:30604http-root-dir/icons/blank.gif
+data.cs.purdue.edu:30604http-root-dir/icons/back.gif
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+data.cs.purdue.edu:30604http-root-dir/htdocs/favicon.ico
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/stats
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/stats
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/logs
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/logs
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/ HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/ HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1 HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/ HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/?C=N;O=D HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/chat.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/chat.gif
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/?C=N;O=A HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/?C=M;O=D HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/?C=M;O=A HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:30604/dir1/?C=M;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30604
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30604/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjE=
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /simple.html HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/simple.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /complex.html HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /logo.svg HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /windows.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /macosx_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dogespace.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /volume1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /2048.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /twitter_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cubes2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok4.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok3.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /android_logo5.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /facebook_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /googleplus2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /complex.html HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /logo.svg HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /macosx_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /twitter_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /facebook_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /android_logo5.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /googleplus2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /windows.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok4.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok3.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cubes2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /volume1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /2048.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dogespace.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /complex.html HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /windows.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /macosx_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /android_logo5.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /facebook_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /logo.svg HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /googleplus2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /twitter_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok4.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok3.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /volume1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cubes2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /2048.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dogespace.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /complex.html HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /logo.svg HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /macosx_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /facebook_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /windows.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /googleplus2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /twitter_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /android_logo5.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cubes2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /volume1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok4.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok3.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /2048.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dogespace.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/ HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/chat.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/chat.gif
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/subdir1/ HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/subdir1/?C=N;O=D HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/subdir1/?C=N;O=A HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/ HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/?C=N;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/?C=S;O=D HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/?C=S;O=A HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=D
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/?C=S;O=A
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1 HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/subdir1/ HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/ HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/subdir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/blank.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/back.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/unknown.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/image.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /icons/menu.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dir1/b HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/b
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/dir1/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cgi-bin/test-env HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/test-env
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cgi-bin/test-env?A=B HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/test-env?A=B
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cgi-bin/test-env HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/test-env
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cgi-bin/test-cgi HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/test-cgi
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cgi-bin/jj HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/jj
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cgi-bin/jj?pwd=&sub=0&sub=1&slj=2&name=Diya&adr=kevdgwyigif&phone=7654099422 HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/jj
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/jj?pwd=&sub=0&sub=1&slj=2&name=Diya&adr=kevdgwyigif&phone=7654099422
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/jj
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/stats
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/stats
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/logs
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /complex.html HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /logo.svg HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /macosx_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /facebook_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /twitter_logo.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /android_logo5.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /windows.png HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /googleplus2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /volume1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok1.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok4.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /pok3.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cubes2.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /2048.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /dogespace.gif HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/complex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /cgi-bin/test-env HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://data.cs.purdue.edu:12345/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:12345
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:12345/cgi-bin/test-env
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:30406
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET / HTTP/1.1
+Host: data.cs.purdue.edu:30406
+Connection: keep-alive
+Cache-Control: max-age=0
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30406
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30406/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+GET /favicon.ico HTTP/1.1
+Host: data.cs.purdue.edu:30406
+Connection: keep-alive
+Authorization: Basic ZHNpbmdoOjEyMzQ1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://data.cs.purdue.edu:30406/stats
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
